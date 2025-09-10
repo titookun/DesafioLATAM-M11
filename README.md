@@ -15,9 +15,8 @@ Ingeniero Informático egresado de Duoc UC. Actualmente me estoy formando en cib
 - Especialización en progreso en Ciberseguridad
 
 ### ¿Cuáles son tus experiencias previas? 
-- Gestor y Desarrollador TI (Practicante) en Corporación Municipal de Salud y Educación, San Bernardo
+- Gestor y Desarrollador TI (Practicante) en Corporación Municipal de Salud y Educación, San Bernardo entre Jul–Sep 2022
 
-Jul–Sep 2022
 Lideré y desarrollé la web de RRHH con Laravel, PHP, SQL y metodologías ágiles.
 
 ### ¿Cómo contactarte? 
